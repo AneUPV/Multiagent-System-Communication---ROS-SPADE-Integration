@@ -1,3 +1,5 @@
+"""Author: Maite López Mena"""
+
 import time
 
 from opcua import Client
