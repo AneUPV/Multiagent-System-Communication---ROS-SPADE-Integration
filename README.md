@@ -10,4 +10,5 @@
 
 Demo video: https://drive.google.com/file/d/163AVQ1eSe6uB6oSobX4Uyy8a5dAL37xO/view?usp=sharing
 
-![eqA_eqB](https://github.com/AneUPV/Multiagent-System-Communication_ROS-SPADE-Integration/assets/90972402/4081b339-c865-4239-932d-d0c80e843c5e)
+![TFG_GITHUB_GRAFIC](https://github.com/AneUPV/Multiagent-System-Communication_ROS-SPADE-Integration/assets/90972425/8be86150-ea4a-4599-909f-d811506ad196)
+
